@@ -18,7 +18,7 @@ The CITY and COUNTRY tables are described as follows:
 |  CODE     | VARCHAR2 (3) |
 |  NAME     | VARCHAR2 (44)|
 |  CONTINENT | VARCHAR2 (13) |
-|  REGION    | VARCHAR2 (250 |
+|  REGION    | VARCHAR2 (25) |
 |  SURFACEAREA | NUMBER  |
 |  INDEPYEAR  | VARCAHR2 (5) |
 |  POPULATION  | NUMBER  |
