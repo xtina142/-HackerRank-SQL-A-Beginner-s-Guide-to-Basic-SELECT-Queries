@@ -13,6 +13,7 @@ The Name column only contains uppercase (A-Z) and lowercase (a-z) letters.
 
 Sample Input
 |  ID   |   Name  |   Marks  |
+|  ---  |  -----  |  ------  |
 |   1   |  Ashely |  81      |
 |   2   | Samantha |  75   |
 |   3   | Julia    |  76   |
