@@ -4,6 +4,7 @@ Input Format
 The Employee table containing employee data for a company is described as follows:
 
 |  Column  |  Type    |
+|   ------ |   ------- |
 | employee_id  |  Integer  |
 | name    | String  |
 | months  | Integer  |
